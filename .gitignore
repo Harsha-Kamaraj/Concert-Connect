@@ -1,0 +1,32 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+concert_booking
+*.exe
+*.out
+*.app
+
+# Data files (user-generated content)
+users.txt
+events.txt
+bookings.txt
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Build directories
+build/
+dist/
